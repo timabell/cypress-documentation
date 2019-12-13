@@ -26,6 +26,7 @@ Recipe  | Description
 {% url 'Drag and Drop' https://github.com/cypress-io/cypress-example-recipes/tree/master/examples/testing-dom__drag-drop %} | Use `.trigger()` to test drag and drop
 {% url 'Shadow DOM' https://github.com/cypress-io/cypress-example-recipes/tree/master/examples/testing-dom__shadow-dom %} | You need to use any of available custom commands
 {% url 'Website monitoring' https://github.com/cypress-io/cypress-example-recipes/tree/master/examples/testing-dom__performance-metrics %} | Utilize `cypress` to monitor your website
+{% url 'Wait for resource to load' https://github.com/cypress-io/cypress-example-recipes/tree/master/examples/testing-dom__wait-for-resource %} | Wait for delayed CSS/images to load before continuing
 
 ## Logging In 
 Recipe  | Description
